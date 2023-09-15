@@ -15,7 +15,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: jao-oliveira
-          svg_out_path: file:///C:/Users/drakc/OneDrive/%C3%81rea%20de%20Trabalho/FORMA%C3%87%C3%83O%20FRONT%20END/github-contribution-grid-snake.svg
+          svg_out_path: /github-contribution-grid-snake.svg
       
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
